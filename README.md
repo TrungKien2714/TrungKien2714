@@ -26,8 +26,6 @@
 </p>
 
 ---
-
-<br/>
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
@@ -57,9 +55,8 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -77,7 +74,7 @@
     
   </a>
 </p>
-<br />
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
