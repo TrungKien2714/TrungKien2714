@@ -34,7 +34,7 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Coding We.</li>
+  <li>Deepening my knowledge in Coding Web.</li>
   <li>Studying Japanese.</li>
 </ul>
   
