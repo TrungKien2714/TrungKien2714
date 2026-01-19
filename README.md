@@ -199,7 +199,7 @@
 <img src="./instagram.png" width=50 height=50 alt="TrungKien2714" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/TrungKien2714" target="_blank">
+<a href="https://www.github.com/TrungKien2714" target="_blank">
 <img src="./github.png" width=50 height=50 alt="TrungKien2714" style="margin-bottom: 5px;" />
 </a>
 
