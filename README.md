@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning software engineering, I believe that everyday is a learning opportunity.
 - 💞️ I’m looking to collaborate on other developers.
 - 🥅 2026 Goals: Graduate from university.
-- 💻 Visit my [Portfolio](#) for more details about me.
+- 💻 Visit my [Portfolio](https://www.linkedin.com/in/trungkien2714/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
